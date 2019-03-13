@@ -1,0 +1,49 @@
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select{margin:0;padding:0}
+body{font:12px "宋体","Arial Narrow",HELVETICA;background:#f6f6f6;-webkit-text-size-adjust:100%;}
+a{color:#2d374b;text-decoration:none}
+a:hover{color:#0a6999;text-decoration:none}
+em{font-style:normal}
+li{list-style:none}
+img{border:0;vertical-align:middle}
+table{border-collapse:collapse;border-spacing:0}
+p{word-wrap:break-word}
+.container{max-width:1024px;}
+.fright{float:right}
+.navbar-wrapper{ height: 45px}
+.navbar{ position:relative; z-index:1030;}
+.navbar-black{ background-color:#fff}
+.navbar-fixed-top{ position:fixed; top:0;left: 0; right: 0; z-index:1030}
+.btn-der{background-color:#009688;color:#fff;}
+.navbac{background-color:#fff;font-size:15px;-webkit-tap-highlight-color:rgba(26,26,26,0)}
+.pdl-0{padding-left:0px}
+.fts-18{font-size:18px;color:#1a1a1a;font-weight:600;}
+.info{margin-top:5px;}
+.ra-img{height:105px;float: left;margin-top:-5px;}
+.p-info{margin:20px 0 0 148px;font-size:15px;line-height:1.67;font-weight:500}
+.bt_info{font-size:15px;color: #0f9ae0;}
+.info_tool{margin-top: 5px;display:inline-block;}
+.a-info{font-size:13px;border-radius:3px;background-color: #E5F2FF;border-color:transparent;color:#0084ff;}
+.p-art{margin:20px 0 0 0px;font-size:15px;line-height:1.67;font-weight:500}
+.info_tool i{font-size:14px;text-align: center;color:#8590a6;padding-left:40px;}
+.sp-info{font-size:14px;color:#8590a6;line-height:21px;}
+.mg-15{margin-top:15px;}
+.Hui-tags{background-color: #fff;margin-bottom:8px;}
+.panel-default{margin-bottom:8px;}
+.input-re{margin:0 15px 15px 15px;}
+.input-re input{margin-bottom:10px;}
+.w-100{width:100%}
+.ft-19{font-size:19px}
+.weibo{color:#E6162D}
+.google{color:#DD4F43}
+.img-50{width:50px;height:50px;}
+.user-tag{margin-left:8%;}
+.user-tag a{color:#007fff;margin-right:10px;}
+.newList-in{padding:0 15px 15px 10px}
+.newsList li {width: 100%;height: 24px;overflow: hidden;font-size:14px;padding:3px 0;overflow: hidden;text-overflow:ellipsis;white-space: nowrap;}
+.newsList li a {width: 248px; height: 24px; color:#595959; line-height: 24px; font-size: 14px; }
+.newsList li em {margin: 3px 10px 0px 0px; width: 18px; height: 18px; text-align: center; color:#d52b2b; line-height: 15px; overflow: hidden; font-family: "georgia", "STHeiti", "Microsoft YaHei", "simsun", "sans-serif", Arial; font-size: 17px; font-style: italic; float: left; _margin-top: 0px;}
+.newsList li:nth-child(n+4) em{ color:#999999;}
+.newsList li.top em {color: #b6262f;}
+.panel-a{float:right;color: #007fff;}
+.input-re{color: #999}
+.input-re a{margin:5px;display:inline-block;color: #999}
